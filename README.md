@@ -5,9 +5,13 @@ Welcome to my GitHub! I'm a **curious mind** at the intersection of **quantitati
 ## 🚀 About Me
 
 🌍 Based in **Tunis, Tunisia**  
+
 💻 Currently expanding my library **[Econometron](https://github.com/AmineOuerfellii/econometron)** – a toolkit for econometric and quantitative financial modeling  
+
 🌱 Learning **probabilistic modeling**, **LLMs for economics**, and **time series analysis**  
-🧠 Passionate about **research**, **economic modelling**, and building tools that merge **state of the art** techniques 
+
+🧠 Passionate about **research**, **economic modelling**, and building tools that merge **state of the art** techniques
+
 ⚡ Fun fact: I often code while diving deep into macroeconomic papers or listening to rap music
 
 ## 🛠️ Skills
