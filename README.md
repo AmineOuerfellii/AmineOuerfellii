@@ -31,7 +31,7 @@ Linux dev, knowledge systems, web integration for AI workflows
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amineouerfellii&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amineouerfelli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amineouerfellii&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 
