@@ -37,7 +37,7 @@ Linux dev, knowledge systems, web integration for AI workflows
 
 **[Econometron](https://github.com/Amineouerfelii/econometron)**  *(WIP)*
 A modular econometric and financial modeling library focused on real-world interpretability and research adaptability.
-Documentation available @ [Econometron](econometron.netlify.app)
+Documentation available @ [Econometron](https://econometron.netlify.app)
 
 **[CGT](https://github.com/AmineOuerfellii/CGT)**: A collaborative social network web app developed with my university team of six, selected to compete in the MENA Regional Hackathon 2024. Built using Symfony,JavaScript, and Java. I led both the backend development, implementing a sort of personal Assitant fully coded in Javascript , contributing to our team's 3rd-place finish.
 
