@@ -13,10 +13,9 @@
 ## 🚀 About Me
 
 - 🌍 **Based in**: Tunis, Tunisia
-- 💻 **Core Project**: Building **[Econometron](https://github.com/AmineOuerfellii/econometron)** — a toolkit for econometric and quantitative financial modeling
-- 🌱 **Currently Learning**: Probabilistic modeling, LLMs for economics, advanced time series analysis
-- 🧠 **Passions**: Research, economic modeling, and creating tools that blend cutting-edge techniques
-- ⚡ **Fun Fact**: I code while diving into macroeconomic papers or vibing to rap music 🎧
+- 💻 **Core Project**: Building **[Econometron](https://github.com/AmineOuerfellii/econometron)** — a toolkit for economic modelling
+- 🌱 **Currently Learning**: Probabilistic modelling, LLMs for economics, advanced time series analysis
+- 🧠 **Passions**: Research, economic modelling, and creating tools that blend cutting-edge techniques
 - 📧 **Reach me**: [mohamedamine.ouerfelli@outlook.com](mailto:mohamedamine.ouerfelli@outlook.com)
 
 ---
