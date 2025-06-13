@@ -14,7 +14,7 @@
 
 - 🌍 **Based in**: Tunis, Tunisia  
 - 💻 **Core Project**: Building **[Econometron](https://github.com/AmineOuerfellii/econometron)** — a toolkit for economic modelling  
-- 🌱 **Currently Exploring**: Probabilistic modelling, LLMs for economics, advanced time series analysis  
+- 🌱 **Currently Exploring**: LLM , advanced time series analysis, NLP
 - 🧠 **Passions**: Research, economic modelling, and creating tools that blend cutting-edge techniques  
 - 📧 **Reach me**: [mohamedamine.ouerfelli@outlook.com](mailto:mohamedamine.ouerfelli@outlook.com)
 
