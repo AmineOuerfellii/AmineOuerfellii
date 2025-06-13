@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://vitejs.dev/logo.svg" width="40" alt="Vite" />
-  <img src="https://vitepress.dev/logo.svg" width="40" alt="VitePress" />
 </p>
 
 ### 🧰 Frameworks & Tools
