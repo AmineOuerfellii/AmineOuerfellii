@@ -28,23 +28,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://vitejs.dev/logo.svg" width="40" alt="Vite" />
 </p>
 
+---
+
 ### 🧰 Frameworks & Tools
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
 ![VitePress](https://img.shields.io/badge/-VitePress-9999FF?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square\&logo=symfony\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Dynare](https://img.shields.io/badge/-Dynare-8B008B?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 ### 📊 Econometrics & ML
 ![Statsmodels](https://img.shields.io/badge/-Statsmodels-008080?style=flat-square)
