@@ -99,7 +99,7 @@ A collection of my latest personal projects in quantitative finance, showcasing 
 ## 📫 Let’s Connect
 
 <div align="center">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/amineouerfelli/)">
+  <a href="[https://www.linkedin.com/in/amineouerfelli/](https://www.linkedin.com/in/amineouerfelli/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  🌐 <strong>Website:</strong> <a href="https://econometron.netlify.app">econometron.netlify.app</a>  
