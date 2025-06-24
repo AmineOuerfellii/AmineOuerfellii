@@ -103,6 +103,7 @@ A collection of my latest personal projects in quantitative finance, showcasing 
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  🌐 <strong>Website:</strong> <a href="https://econometron.netlify.app">econometron.netlify.app</a>  
+ 🌐 <strong>Website:</strong> <a href="https://elouerfelliamine.netlify.app">My Portfolio</a>  
   <a href="mailto:mohamedamine.ouerfelli@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
