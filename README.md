@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👋 Hey, I'm Mohamed Amine Ouerfelli!</h1>
-<p>
-  A professional working at the intersection of <b>quantitative finance</b>, <b>economics</b>, and <b>data science</b>.<br>
-  I design models and tools that translate complex theory into practical, research-grade applications — from econometrics to intelligent systems.
-</p>
+  <h1>👋 Hello, I'm Mohamed Amine Ouerfelli</h1>
+  <p>
+    I work at the intersection of <b>quantitative finance</b>, <b>economics</b>, and <b>data science</b>.<br>
+    I develop models and tools that transform complex theoretical concepts into practical, research-ready applications — spanning econometrics, AI, and intelligent systems.
+  </p>
   <img src="https://img.shields.io/badge/-Tunis,%20Tunisia-FF6F61?style=flat-square&logo=map-pin" alt="Location">
   <img src="https://img.shields.io/badge/-Econometron%20Dev-FFD700?style=flat-square&logo=code" alt="Project">
 </div>
@@ -12,17 +12,17 @@
 
 ## 🚀 About Me
 
-- 🌍 **Based in**: Tunis, Tunisia  
-- 💻 **Core Project**: Building **[Econometron](https://github.com/AmineOuerfellii/econometron)** — a toolkit for economic modelling  
-- 🌱 **Currently Exploring**: LLM , advanced time series analysis, NLP
-- 🧠 **Passions**: Research, economic modelling, and creating tools that blend cutting-edge techniques  
-- 📧 **Reach me**: [mohamedamine.ouerfelli@outlook.com](mailto:mohamedamine.ouerfelli@outlook.com)
+- 🌍 **Location**: Tunis, Tunisia  
+- 💻 **Core Project**: [Econometron](https://github.com/AmineOuerfellii/econometron) — a toolkit for economic modeling and quantitative analysis  
+- 🌱 **Current Focus**: Large Language Models, advanced time series analysis, and NLP  
+- 🧠 **Passions**: Economic research, model development, and creating tools that integrate advanced techniques  
+- 📧 **Contact**: [mohamedamine.ouerfelli@outlook.com](mailto:mohamedamine.ouerfelli@outlook.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### 📦 Languages
+### 📦 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
@@ -31,24 +31,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX" />
 </p>
 
----
-
 ### 🧰 Frameworks & Tools
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![VitePress](https://img.shields.io/badge/-VitePress-9999FF?style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square\&logo=symfony\&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Dynare](https://img.shields.io/badge/-Dynare-8B008B?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 Econometrics & ML
+### 📊 Econometrics & Machine Learning
 ![Statsmodels](https://img.shields.io/badge/-Statsmodels-008080?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
@@ -67,43 +64,46 @@
 </div>
 
 ---
+
 ## 🔭 Areas of Interest
 
-- Computational Economics 
-- Quantitative Finance 
-- Web Development 
-- Probabilistic Forecasting & AI
+- Computational Economics  
+- Quantitative Finance  
+- Web Development  
+- Probabilistic Forecasting & AI  
+
 ---
+
 ## 🌟 Featured Projects
 
-### [Econometron](https://github.com/AmineOuerfellii/econometron) *(Work in Progress)*
+### [Econometron](https://github.com/AmineOuerfellii/econometron) *(In Development)*
 A modular library for econometric and financial modeling, designed for real-world interpretability and research flexibility.  
 📚 **Documentation**: [econometron.netlify.app](https://econometron.netlify.app)  
-🛠️ **Tech**: Python, DSGE ,Timeseries models , N-Beats ,Projection methods
-
----
+🛠️ **Tech**: Python, DSGE, Time Series Models, N-BEATS, Projection Methods  
 
 ### [CGT](https://github.com/AmineOuerfellii/CGT)
-A collaborative social network web app built with a six-member university team for the MENA Regional Hackathon 2024. Secured **3rd place**!  
+A collaborative social network web app built with a six-member university team for the MENA Regional Hackathon 2024. Secured **3rd place**.  
 Led backend development and created a JavaScript-based assistant.  
-🛠️ **Tech**: Symfony, JavaScript, Java ,Social Media
-
----
+🛠️ **Tech**: Symfony, JavaScript, Java, Social Media  
 
 ### [Quantitative Finance](https://github.com/AmineOuerfellii/quantitative_finance)
-A collection of my latest personal projects in quantitative finance, showcasing models and experiments.  
-🛠️ **Tech**: Python, Crypto ,Credit Score ,Portfolio Optimization
+A curated collection of personal projects in quantitative finance, showcasing models and experiments.  
+🛠️ **Tech**: Python, Crypto, Credit Scoring, Portfolio Optimization  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect with Me
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/amineouerfelli/](https://www.linkedin.com/in/amineouerfelli/)">
+  <a href="https://www.linkedin.com/in/amineouerfelli/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
- 🌐 <strong>Website:</strong> <a href="https://econometron.netlify.app">econometron.netlify.app</a>  
- 🌐 <strong>Website:</strong> <a href="https://elouerfelliamine.netlify.app">My Portfolio</a>  
+  <a href="https://econometron.netlify.app">
+    <img src="https://img.shields.io/badge/-Website-econometron.netlify.app-6f42c1?style=flat-square" alt="Website">
+  </a>
+  <a href="https://elouerfelliamine.netlify.app">
+    <img src="https://img.shields.io/badge/-Portfolio-elouerfelliamine.netlify.app-6f42c1?style=flat-square" alt="Portfolio">
+  </a>
   <a href="mailto:mohamedamine.ouerfelli@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -112,6 +112,6 @@ A collection of my latest personal projects in quantitative finance, showcasing 
 ---
 
 <div align="center">
-  <p>Thanks for exploring my profile! Let’s collaborate on impactful projects. 🚀</p>
+  <p>Thank you for visiting my profile! Let’s collaborate on impactful projects. 🚀</p>
   <img src="https://komarev.com/ghpvc/?username=AmineOuerfellii&color=brightgreen" alt="Profile views" />
 </div>
