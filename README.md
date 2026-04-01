@@ -1,7 +1,9 @@
 <div align="center">
   <h1>WELCOME</h1>
-  <p>Live to Learn , Learn to prosper</p>
-  <a href="https://elouerfelliamine.netlify.app"></a><br>
+  <p>
+    <b>Live to Learn , Learn to prosper</b><br>
+    <a href="https://elouerfelliamine.netlify.app"><b>Protfolio</b><br>
+  </p>
   <p><b>Check My Core Project:</b></p>
   
   <p>
